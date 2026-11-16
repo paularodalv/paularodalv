@@ -19,7 +19,7 @@
 - 💡 Me encanta crear interfaces intuitivas, cuidar el diseño y dar vida a ideas desde cero.
 - 🔍 Explorando tanto el desarrollo **Frontend** como el **Backend** y las bases de datos relacionales.
 - 🎯 Objetivo actual: Seguir mejorando mis habilidades de arquitectura de software y construir proyectos reales para mi portfolio.
-- 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn][(https://linkedin.com/in/tu-usuario)](https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
+- 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn][(https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)]**
 
 ---
 
@@ -28,11 +28,8 @@
 #### 🌐 Frontend & Diseño
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <!-- Añade o quita según lo que estés viendo en clase o por tu cuenta -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 #### ⚙️ Backend & Bases de Datos
@@ -40,7 +37,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 #### 🧰 Herramientas y Control de Versiones
