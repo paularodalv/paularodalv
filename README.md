@@ -66,7 +66,7 @@
 
 | App / Experimento | Concepto y Vibe | Enfoque / Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **🌰 [Acorn]** | Habit Tracker, agenda, diario... | `Vibe Coding` `UI/UX` | [Ver repo](https://github.com/tu-usuario/vibe-1](https://github.com/paularodalv/Acorn) |
+| **🌰 Acorn** | Habit Tracker, agenda, diario... | `Vibe Coding` `UI/UX` | [Ver repo](https://github.com/paularodalv/Acorn) |
 | **🍯 [Nombre App 2]** | Aplicación web temática creada desde cero enfocada en experiencia de usuario. | `Vibe Coding` `Web App` | [Ver repo](https://github.com/tu-usuario/vibe-2) |
 
 ---
