@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Construyendo+experiencias+en+la+web+%F0%9F%92%BB;Apasionada+por+el+c%C3%B3digo+limpio+y+el+dise%C3%B1o+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Construyendo+experiencias+en+la+web+%F0%9F%92%BB;Apasionada+por+el+c%C3%B3digo+limpio+y+el+dise%C3%B1o+%E2%9C%A8;Prototipando+ideas+con+Vibe+Coding+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,6 +18,7 @@
 - 🌱 Actualmente cursando **Desarrollo de Aplicaciones Web (DAW)**.
 - 💡 Me encanta crear interfaces intuitivas, cuidar el diseño y dar vida a ideas desde cero.
 - 🔍 Explorando tanto el desarrollo **Frontend** como el **Backend** y las bases de datos relacionales.
+- ⚡ Disfruto experimentando con **Vibe Coding** para prototipar rápido y convertir ideas creativas en apps funcionales con ayuda de IA.
 - 🎯 Objetivo actual: Seguir mejorando mis habilidades de arquitectura de software y construir proyectos reales para mi portfolio.
 - 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
@@ -49,13 +50,24 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados (DAW & Código Tradicional)
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :--- |
 | **🌿 [Nombre Proyecto 1]** | Breve descripción de qué hace tu app web y qué problema resuelve. | `HTML` `CSS` `JS` | [Ver repo](https://github.com/tu-usuario/repo-1) |
 | **💻 [Nombre Proyecto 2]** | Aplicación con gestión de usuarios y base de datos relacional. | `Java` `MySQL` | [Ver repo](https://github.com/tu-usuario/repo-2) |
-| **✨ [Nombre Proyecto 3]** | Proyecto personal o práctica de diseño web responsive y usabilidad. | `React` `CSS` | [Ver repo](https://github.com/tu-usuario/repo-3) |
+| **✨ [Nombre Proyecto 3]** | Proyecto personal o práctica de diseño web responsive y usabilidad. | `PHP` `MySQL` | [Ver repo](https://github.com/tu-usuario/repo-3) |
+
+---
+
+### 🪄 Laboratorio Vibe Coding
+
+> *Proyectos personales, experimentos rápidos y aplicaciones con estética cuidada creadas iterando junto a herramientas de IA.*
+
+| App / Experimento | Concepto y Vibe | Enfoque / Herramientas | Enlace |
+| :--- | :--- | :--- | :--- |
+| **🌰 [Nombre App 1]** | Pequeña descripción de la app, su utilidad y el estilo visual que tiene. | `Vibe Coding` `UI/UX` | [Ver repo](https://github.com/tu-usuario/vibe-1) |
+| **🍯 [Nombre App 2]** | Aplicación web temática creada desde cero enfocada en experiencia de usuario. | `Vibe Coding` `Web App` | [Ver repo](https://github.com/tu-usuario/vibe-2) |
 
 ---
 
@@ -70,5 +82,5 @@
 ---
 
 <div align="center">
-  <sub>✨ Hecho con código y curiosidad • ¡Gracias por pasarte por mi perfil! ✨</sub>
+  <sub>✨ Hecho con código, creatividad y curiosidad • ¡Gracias por pasarte por mi perfil! ✨</sub>
 </div>
