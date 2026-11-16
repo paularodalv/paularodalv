@@ -66,7 +66,7 @@
 
 | App / Experimento | Concepto y Vibe | Enfoque / Herramientas | Enlace |
 | :--- | :--- | :--- | :--- |
-| **🌰 [Nombre App 1]** | Pequeña descripción de la app, su utilidad y el estilo visual que tiene. | `Vibe Coding` `UI/UX` | [Ver repo](https://github.com/tu-usuario/vibe-1) |
+| **🌰 [Acorn]** | Habit Tracker, agenda, diario... | `Vibe Coding` `UI/UX` | [Ver repo](https://github.com/tu-usuario/vibe-1](https://github.com/paularodalv/Acorn) |
 | **🍯 [Nombre App 2]** | Aplicación web temática creada desde cero enfocada en experiencia de usuario. | `Vibe Coding` `Web App` | [Ver repo](https://github.com/tu-usuario/vibe-2) |
 
 ---
@@ -75,8 +75,8 @@
 
 <div align="center">
   <!-- IMPORTANTE: Sustituye "tu-usuario" en las dos URLs de abajo por tu nombre real de GitHub -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paularodalv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularodalv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
