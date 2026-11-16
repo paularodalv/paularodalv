@@ -19,7 +19,7 @@
 - 💡 Me encanta crear interfaces intuitivas, cuidar el diseño y dar vida a ideas desde cero.
 - 🔍 Explorando tanto el desarrollo **Frontend** como el **Backend** y las bases de datos relacionales.
 - 🎯 Objetivo actual: Seguir mejorando mis habilidades de arquitectura de software y construir proyectos reales para mi portfolio.
-- 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn][https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android]**
+- 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 ---
 
