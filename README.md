@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Puedes cambiar este banner por uno propio en Canva o usar uno animado de Capsule Render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=¡Hola!%20Soy%20[Tu%20Nombre]&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudiante%20de%20Desarrollo%20de%20Aplicaciones%20Web%20(DAW)&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=¡Hola!%20Soy%20Paula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Estudiante%20de%20Desarrollo%20de%20Aplicaciones%20Web%20(DAW)&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 - 💡 Me encanta crear interfaces intuitivas, cuidar el diseño y dar vida a ideas desde cero.
 - 🔍 Explorando tanto el desarrollo **Frontend** como el **Backend** y las bases de datos relacionales.
 - 🎯 Objetivo actual: Seguir mejorando mis habilidades de arquitectura de software y construir proyectos reales para mi portfolio.
-- 📫 Cómo contactar conmigo: **[tu-email@ejemplo.com]** | **[LinkedIn](https://linkedin.com/in/tu-usuario)**
+- 📫 Cómo contactar conmigo: **paularodalv06@gmail.com** | **[LinkedIn][(https://linkedin.com/in/tu-usuario)](https://www.linkedin.com/in/paula-rodríguez-álvarez-963a5a352?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 ---
 
